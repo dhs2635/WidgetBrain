@@ -126,3 +126,6 @@ def test3():
     # multiple cargo types that need to be transshipped separately
 
     # particular vesselids can be matched with particular cargo types or weights
+
+# given more time, I would also use libraries like numpy to generate r^2 values and other useful statics, but
+# I was having some technical difficulties with installings these libraries
